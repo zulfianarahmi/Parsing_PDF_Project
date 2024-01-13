@@ -15,4 +15,5 @@ The goal of this project is to automate the extraction of data from multiple PDF
 
 1. Clone the repository to your local machine:
 
-   git clone https://github.com/your-username/Parsing_PDF_Project.git
+   git clone git clone https://github.com/zulfianarahmi/Parsing_PDF_Project.git
+
